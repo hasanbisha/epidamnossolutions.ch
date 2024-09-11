@@ -1,0 +1,16 @@
+{
+  "name": "epidamnossolutions.ch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve",
+    "scss": "sass index.scss index.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.78.0",
+    "serve": "^14.2.3"
+  }
+}
